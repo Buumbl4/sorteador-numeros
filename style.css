@@ -131,7 +131,7 @@ h1 {
 }
 
 .container__imagem-pessoa {
-    max-width: 100%;
+    max-width: 50%;
     height: auto;
     margin-top: 2rem;
 }
